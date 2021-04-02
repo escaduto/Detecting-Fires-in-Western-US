@@ -2,10 +2,10 @@
 
 ## Table of Contents  
 [Project Description](#project-Description)  
-1. [Identifying Fire Clusters](#1.-Identifying-Fire-Clusters)  
-2. [Deriving Continuous Fire Perimeters](#2.-Deriving-Continuous-Fire-Perimeters)  
-3. [Filtering Instances of Non-Wildland Fires ](#3.-Filtering-Instances-of-Non-Wildland-Fires)
-4. [Fire Trends ](#4.-Fire-Trends)  
+1. [Identifying Fire Clusters](#1-identifying-fire-clusters)  
+2. [Deriving Continuous Fire Perimeters](#2-deriving-continuous-fire-perimeters)  
+3. [Filtering Instances of Non-Wildland Fires ](#3-filtering-instances-of-non-wildland-fires)
+4. [Fire Trends ](#4-fire-trends)  
 
 ___
 
