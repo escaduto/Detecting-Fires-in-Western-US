@@ -1,7 +1,16 @@
 # Automating Fire Occurence Monitoring in the Western US
 
+## Table of Contents  
+[Project Description](#project-Description)  
+1. [Identifying Fire Clusters](#1.-Identifying-Fire-Clusters)  
+2. [Deriving Continuous Fire Perimeters](#2.-Deriving-Continuous-Fire-Perimeters)  
+3. [Filtering Instances of Non-Wildland Fires ](#3.-Filtering-Instances-of-Non-Wildland-Fires)
+4. [Fire Trends ](#4.-Fire-Trends)  
+
+___
+
 ## Project Description 
-Fire agencies at both state and federal levels work to create and maintaining fire datasets that are available nationwide. However, there can oftentimes be inconsistencies between data quality and resources availabiity across various agencies. In general high number of fires (often small or low risk) within non-critical zones go unreported. These non-critical areas can be attributed to rural areas with lower populated areas and/or unprotected land management sites.  
+Fire agencies, both at state and federal levels, work to create and maintain fire datasets available nationwide. However, there can oftentimes be inconsistencies between data quality and resources availabiity across various agencies. In general high number of fires (often small or low risk) within non-critical zones go unreported. These non-critical areas can be attributed to rural areas with lower populated areas and/or unprotected land management sites.  
 
 To increase consistency in data quality and availability, this project explores new automated methods in determining unique fire instances. Focusing on the Western United States from 2017 to 2020, we used the MODIS and VIIRS active fire products to identify discrete fire hotspots. 
 
