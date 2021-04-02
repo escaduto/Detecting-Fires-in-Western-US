@@ -10,9 +10,9 @@
 ___
 
 ## Project Description 
-Fire agencies at state and federal levels work to create and maintain fire datasets available nationwide. However, there can oftentimes be inconsistencies between data quality and resources availabiity across various agencies. In general high number of fires (often small or low risk) within non-critical zones go unreported. These non-critical areas can be attributed to rural areas with lower populated areas and/or unprotected land management sites.  
+Fire and land management agencies at local, state, and federal levels work to create and maintain fire datasets available nationwide. However, inconsistencies in the datasets i.e. frequency of documenting, quality of data layers, and methods used e.g. airborne, automatic mapping, digitizations are observed in most cases, oftentimes attributed to resource availabiity. In addition, even after consolidating the data layers, a high number of fires (e.g. small or low risk) within non-critical zones go unreported, or unmapped. These non-critical areas can be attributed to rural areas with lower populated areas and/or unprotected land management sites.  
 
-To increase consistency in data quality and availability, this project explores new automated methods in determining unique fire instances. Focusing on the Western United States from 2017 to 2020, we used the MODIS and VIIRS active fire products to identify discrete fire hotspots. 
+To increase consistency in data quality and data availability, this project explores new automated methods in determining unique fire instances. Focusing on the Western United States from 2017 to 2020, we used the MODIS and VIIRS active fire products to identify discrete fire hotspots. 
 
 The method then identifies fire clusters based on a recursive neighbor search based on temporal and spatial conditions. The resulting fire instance clusters were then used to derive continious daily fire perimeters using geostatistical interpolation metods to further quantify area burned. 
 
